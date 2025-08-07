@@ -1,0 +1,7 @@
+# .dockerignore
+.env
+*.env
+.env*
+**/.env
+**/.env*
+.env.example
